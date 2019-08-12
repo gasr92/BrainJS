@@ -1,0 +1,2 @@
+npm init -y
+npm i brain.js -S    // -S para salvar a biblioteca como dependência dentro do package.json
